@@ -1,4 +1,4 @@
-![Dashboard Screenshot](dashboard_screenshot.png
+![Dashboard Screenshot](dashboard_screenshot.png)
 
 
 ## 📊 Power BI Dashboard Preview
