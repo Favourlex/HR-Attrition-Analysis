@@ -2,6 +2,7 @@
 Here’s a snapshot of the HR Attrition Dashboard:
 
 ![Dashboard Screenshot](dashboard_screenshot.png
+
 ---
 
 ## 📊 Power BI Dashboard Preview
