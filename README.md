@@ -5,10 +5,6 @@ Here’s a snapshot of the HR Attrition Dashboard:
 
 ---
 
-## 📊 Power BI Dashboard Preview
-
----
-
 ## 📝 Dataset
 
 - **File:** `indicino_cleaned_engineered_v2.csv`  
